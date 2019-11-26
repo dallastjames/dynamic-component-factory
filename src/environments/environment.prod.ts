@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+    production: true,
+    pageApi: 'https://production.site/api/path/getpagejson'
 };
